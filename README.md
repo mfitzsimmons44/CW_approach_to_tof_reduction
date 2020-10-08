@@ -14,6 +14,8 @@ On the Zenodo website, I have provided data collected from a ~50 nm Pt film on a
 
 After running the CW\_reduction\_batch notebook, I ran the CW\_assemble\_batch notebook. Then I moved the output files from CW\_reduction\_batch into the &quot;/results&quot; sub-directory. The output of the CW\_assemble\_batch notebook remains in the working directory as &quot;RvsQ…&quot;.
 
+Work funded by the U.S. Department of Energy under contract No. DE-AC05-00OR22725.
+
 M.R. Fitzsimmons (10.07.2020)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4072377.svg)](https://doi.org/10.5281/zenodo.4072377)
